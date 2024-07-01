@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="tenor-gif-embed" data-postid="5543643" data-share-method="host" data-aspect-ratio="1.335" data-width="100%"><a href="https://tenor.com/view/howdy-cowboy-tom-and-jerry-old-west-gif-5543643">Howdy! GIF</a>from <a href="https://tenor.com/search/howdy-gifs">Howdy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js" width="200px"></script>
+![howdy-cowboy](https://github.com/andreapisa9/andreapisa9/assets/75833424/c684045f-ca59-4fef-86bf-7e068f23e992)
 
 
 > "*Consistency: it's not who starts, but who continues*"
