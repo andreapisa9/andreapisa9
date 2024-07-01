@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🤓 Andrea Pisani (he/him)
+<div class="tenor-gif-embed" data-postid="5543643" data-share-method="host" data-aspect-ratio="1.335" data-width="100%"><a href="https://tenor.com/view/howdy-cowboy-tom-and-jerry-old-west-gif-5543643">Howdy! GIF</a>from <a href="https://tenor.com/search/howdy-gifs">Howdy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js" width="200px"></script>
+
 
 > "*Consistency: it's not who starts, but who continues*"
 > ~ L. Da Vinci
