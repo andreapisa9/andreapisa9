@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 > ~ L. Da Vinci
 
 ## 🎓 National Ph.D. Student – @[polito](https://github.com/polito), @[polimi](https://github.com/polimi)
-### Contacts:
-<img src="https://github.com/andreapisa9/andreapisa9/assets/75833424/084c905f-cf85-43c1-b720-dcea18917df0" alt="mail_icon" width="25em"/> [andrea.pisani@polito.it](mailto:andrea.pisani@polito.it)
+### <img src="https://github.com/andreapisa9/andreapisa9/assets/75833424/084c905f-cf85-43c1-b720-dcea18917df0" alt="mail_icon" width="25em"/> [andrea.pisani@polito.it](mailto:andrea.pisani@polito.it)
