@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - TypeScript! <img src="https://github.com/andreapisa9/andreapisa9/assets/75833424/5b6b0a72-edaa-4ead-a902-85439b0056ff" alt="typescript_logo" width="10em"/>
 - Beating procrastination! 😫
 
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreapisa9&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreapisa9&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrea's GitHub stats](https://github-stats-extended.vercel.app/api?username=andreapisa9&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=andreapisa9&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
